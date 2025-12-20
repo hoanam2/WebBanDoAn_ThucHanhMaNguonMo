@@ -1,10 +1,10 @@
 # WebBanDoAn_ThucHanhMaNguonMo
-Dự án web bán đồ ăn (PHP + MySQL) tối giản để thực hành.
 
 ## Yêu cầu
 - PHP 8+
 - MySQL
-- 
+- warm
+>>>>>>> feature/admin-panel
 
 ## Cài đặt
 1. Tạo database `foodshop`.
